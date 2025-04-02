@@ -1,0 +1,8 @@
+name: python_init_inter
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
